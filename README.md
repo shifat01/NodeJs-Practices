@@ -1,9 +1,16 @@
-# NodeJs Practice Set
-Servers usign NodeJs Only, No Express.
+# NodeJs Practices
+
+A simple repository for practicing Node.js concepts. It contains different small projects built using core Node.js modules (without frameworks like Express).
+
 ---
-## Here is:
-1. Ecommers Menu Server
-2. Form Submite Server
+## 📂 Project Structure
+
+- ### Ecommers-menu-server
+A basic server that serves e-commerce menu-related data.
+
+- ### Form-submite-server
+A server that handles form submissions.
+
 
 ## Tech Stack:
 - Node Js Only
